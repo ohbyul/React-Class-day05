@@ -1,9 +1,8 @@
 # React-Class-day05
 
-## src/sample 
-```
-경동 사이트 copycat
-```
+### src/sample 
+- 경동 사이트 copycat
+---
 
 ### Test1.js
 - onChang
