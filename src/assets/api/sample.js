@@ -1,0 +1,17 @@
+export default [
+    {id : 1, title : '국내자원개발' , titleend : ' Domestic resource' ,
+    des : '경동은 수십년간 축적된 경험과 광산운영 전반의 기술력을 보유하고 있습니다.',
+    image : 'http://www.kyungdong.co.kr/ko/front/image/main/sec01_img01.jpg'},
+    {id : 2, title : '국내자원개발' , titleend : ' Domestic resource' ,
+    des : '경동은 수십년간 축적된 경험과 광산운영 전반의 기술력을 보유하고 있습니다.',
+    image : 'http://www.kyungdong.co.kr/ko/front/image/main/sec01_img01.jpg'},
+    {id : 3, title : '국내자원개발' , titleend : ' Domestic resource' ,
+    des : '경동은 수십년간 축적된 경험과 광산운영 전반의 기술력을 보유하고 있습니다.',
+    image : 'http://www.kyungdong.co.kr/ko/front/image/main/sec01_img01.jpg'},
+    {id : 4, title : '국내자원개발' , titleend : ' Domestic resource' ,
+    des : '경동은 수십년간 축적된 경험과 광산운영 전반의 기술력을 보유하고 있습니다.',
+    image : 'http://www.kyungdong.co.kr/ko/front/image/main/sec01_img01.jpg'},
+    {id : 5, title : '국내자원개발' , titleend : ' Domestic resource' ,
+    des : '경동은 수십년간 축적된 경험과 광산운영 전반의 기술력을 보유하고 있습니다.',
+    image : 'http://www.kyungdong.co.kr/ko/front/image/main/sec01_img01.jpg'},
+]
